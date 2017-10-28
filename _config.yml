@@ -1,5 +1,9 @@
 # Site settings
 title: HOLISUN
+---
+layout: page
+description: "一生想做浪漫极客"
+---
 SEOTitle: 好莱香的博客 | HOLISUN
 header-img: img/post-bg-desk.jpg
 email: haozhanjiang@live.cn
