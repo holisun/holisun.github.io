@@ -1,7 +1,15 @@
-# MAC下通过sublimetext远程编辑文件
+---
+layout:     post
+title:      MAC下通过sublimetext远程编辑文件
+subtitle:   MAC系统系实现Editplus在windows下的远程访问linux服务器编辑文件的功能
+date:       2018-01-23
+author:     HOLISUN
+header-img: img/post-bg-re-vs-ho03.jpg
+catalog: true
+tags:
+    - Blog
+---
 
-
-### MAC系统系实现Editplus在windows下的远程访问linux服务器编辑文件的功能
 
 **1. 准备工作：到sublimetext官网下载软件，并完成安装。**
 
